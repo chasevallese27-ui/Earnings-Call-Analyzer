@@ -1,0 +1,42 @@
+Source: transcript.txt
+------------------------------------------------------------
+# Raspberry Pi Holdings plc Q4 2025 Earnings Analysis
+
+## 1. KEY FINANCIAL METRICS
+
+**Revenue:** 
+- Total revenue increased 25% YoY
+- Specific revenue figures not disclosed in absolute terms
+
+**EPS:** 
+- Adjusted EPS increased 35% YoY
+- Specific EPS figures not disclosed
+
+**Gross Margin:** 
+- Gross margin remained consistent at 24%
+- Gross profit increased 23% YoY
+- Gross profit per unit rose to $8.70 from $7.40 (23% increase YoY)
+
+## 2. FORWARD GUIDANCE
+
+Management expects unit volume improvement in 2026, with momentum from Q4 2025 continuing into the new year. They anticipate direct sales will trend from current 76% toward 80% of total sales. However, gross profit per unit is expected to decline in 2026 due to memory price increases. Revenue is expected to increase substantially in 2026 due to pricing increases to offset memory cost inflation. The company projects tax rates of 22-23% going forward and expects cash conversion of 60-80% of EBITDA in the medium term.
+
+## 3. MANAGEMENT SENTIMENT
+
+**Tone: Bullish with cautious optimism**
+
+Management expressed strong confidence about 2025 performance, calling it a "standout year" with particular enthusiasm about crossing over to selling more semiconductors than boards for the first time. They demonstrated optimism about demand momentum carrying into 2026 and growth opportunities in Edge AI. However, they showed measured caution regarding memory supply chain challenges and pricing pressures that will persist through 2026-2027, acknowledging limited visibility in the second half of 2026.
+
+## 4. KEY RISKS
+
+• Memory supply chain constraints and dramatic price increases (7x increase mentioned)
+• Limited visibility into second half of 2026 demand
+• Dependency on Far East foundry capacity additions for DRAM relief
+• Potential demand suppression due to necessary price increases
+• Regulatory complexity in IoT device environment
+• Competition for talent in R&D ("R&D air pocket" challenge)
+• Network dependency and latency issues for cloud-based AI applications
+
+## 5. EXECUTIVE SUMMARY
+
+Raspberry Pi delivered strong Q4 2025 results with 9% unit growth to 7.6 million units and 25% EBITDA increase, marking the first year where semiconductor sales exceeded board sales. The company faces significant memory supply chain challenges requiring substantial price increases, but management remains confident about demand momentum continuing into 2026 and long-term growth opportunities in Edge AI applications. Despite supply chain headwinds, the company is well-positioned with strong customer relationships, diverse product portfolio, and approximately one-third of products unaffected by current DRAM pricing pressures.
