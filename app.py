@@ -36,25 +36,20 @@ SECTION_DIVIDER = "-" * 60
 
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python app.py <transcript.txt>")
-        sys.exit(1)
-
-    transcript_path = sys.argv[1]
+    company = input("Enter the company name: ").strip()
+    transcript_path = f"{company}_transcript.txt"
 
     try:
         with open(transcript_path, "r", encoding="utf-8") as f:
             transcript = f.read()
     except FileNotFoundError:
-        print(f"Error: File not found: {transcript_path}")
-        sys.exit(1)
-    except IOError as e:
-        print(f"Error reading file: {e}")
+        print(f"Error: Could not find {transcript_path} in the current directory.")
         sys.exit(1)
 
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
 
-    print(f"Analyzing transcript: {transcript_path}")
+    print(SECTION_DIVIDER)
+    print(f"Analyzing transcript for {company}...")
     print(SECTION_DIVIDER)
 
     with client.messages.stream(
@@ -77,13 +72,15 @@ def main():
     print(result_text)
     print(SECTION_DIVIDER)
 
-    with open("output.txt", "w", encoding="utf-8") as f:
-        f.write(f"Source: {transcript_path}\n")
+    output_path = f"{company}_summary.txt"
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(f"Company: {company}\n")
         f.write(SECTION_DIVIDER + "\n")
         f.write(result_text)
         f.write("\n")
 
-    print(f"Output saved to output.txt")
+    print(f"Output saved to {output_path}")
 
 
 if __name__ == "__main__":
