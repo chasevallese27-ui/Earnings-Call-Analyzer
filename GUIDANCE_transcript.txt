@@ -1,0 +1,84 @@
+MERIDIAN INDUSTRIAL CORPORATION
+Q3 FISCAL YEAR 2024 EARNINGS CALL TRANSCRIPT
+Ticker: MRID
+November 7, 2024
+
+OPERATOR: Good morning, and welcome to Meridian Industrial Corporation's Third Quarter Fiscal Year 2024 Earnings Conference Call. All participants will be in a listen-only mode until the question-and-answer portion of today's call. Today's conference is being recorded. I would now like to turn the call over to Karen Bowman, Vice President of Investor Relations. Karen, please go ahead.
+
+KAREN BOWMAN: Thank you, operator. Good morning, everyone, and thank you for joining Meridian Industrial's third quarter fiscal 2024 earnings call. With me today are Robert Lassiter, our Chief Executive Officer, and Patricia Whitmore, our Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that this call contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties, including changes in economic conditions, trade policy, tariff environments, raw material costs, and other factors described in our filings with the SEC. Actual results could differ materially from those projected. We disclaim any obligation to update forward-looking statements. A replay of this call will be available on our investor relations website within 24 hours.
+
+I'll now turn it over to Robert.
+
+ROBERT LASSITER: Thank you, Karen, and good morning to everyone on the line. I appreciate you taking the time to join us today.
+
+I want to begin by saying that our third quarter results demonstrate the fundamental resilience of Meridian Industrial's operating model. Despite a complicated external environment — and I'll speak to that more in a moment — our teams executed well, our core businesses performed solidly, and we continued to make progress on our strategic priorities.
+
+For the third quarter, we reported revenue of $1.84 billion, which represents 7% growth year over year. That growth was broad-based. Our Engineered Components segment posted its sixth consecutive quarter of year-over-year revenue gains. Our Industrial Systems segment benefited from continued strength in infrastructure-related end markets. Our Specialty Materials business stabilized after a challenging first half of the year.
+
+Earnings per share for the quarter were $2.11, which reflects disciplined cost management, favorable pricing realization, and the benefits of our ongoing operational improvement programs. Gross margin for the quarter came in at 41.2%, which represents meaningful improvement from the 38.6% we reported in Q3 of last year. That roughly 260-basis-point improvement is the result of pricing actions we took earlier in the year, raw material cost tailwinds in certain categories, and the first full-quarter contribution from the restructuring actions we completed in Q1.
+
+Our balance sheet remains strong. We generated solid free cash flow in the quarter, and we continued to pay down debt. We are in a position of financial strength.
+
+Now, I want to address something directly, because I know it will come up, and I want to be candid with you before we get to Q&A. We are not providing formal forward guidance for Q4 or for the full fiscal year.
+
+This is not a decision we take lightly. We know the investment community values guidance, and we have historically been willing to provide it. But the current environment — specifically the rapidly evolving tariff landscape and the meaningful uncertainty around trade policy between the United States, the European Union, and several Asian markets — makes it genuinely impossible for us to provide targets we would stand behind. The range of outcomes is simply too wide. The inputs to our cost structure and to end-market demand are moving in ways that are difficult to forecast with any confidence over a one- to three-quarter horizon.
+
+I want to be clear: this is a position of honesty, not a position of weakness. Our business is healthy. Our operations are performing. But providing a number that would have a very wide error bar attached to it — or that could prove misleading to investors — is not something we are willing to do. We think transparency here serves you better than a number that may require us to walk it back.
+
+Patricia will now take you through the detailed financials.
+
+PATRICIA WHITMORE: Thank you, Robert, and good morning, everyone.
+
+I'll provide some additional detail on the Q3 results. As Robert noted, revenue was $1.84 billion, up 7.0% from $1.72 billion in Q3 of last year. On a segment basis: Engineered Components contributed $820 million, up 9% year over year. Industrial Systems contributed $671 million, up 6% year over year. Specialty Materials contributed $349 million, up 4% year over year.
+
+Gross profit was $758 million, representing a gross margin of 41.2%, compared to 38.6% in the prior-year period. The improvement reflects the pricing and cost factors Robert described, partially offset by higher logistics costs in our Industrial Systems segment.
+
+Operating expenses were $412 million, including $38 million in restructuring-related charges from the completion of our Q1 programs. Excluding those charges, adjusted operating expenses were $374 million. Adjusted operating income was $384 million, representing an adjusted operating margin of approximately 20.9%.
+
+EPS on a GAAP basis was $1.87. On an adjusted basis, excluding restructuring charges and the related tax effects, EPS was $2.11 as Robert noted.
+
+Free cash flow was $218 million in the quarter. We used $95 million to pay down debt, bringing our net leverage ratio to 1.8 times adjusted EBITDA. We repurchased $40 million in shares and paid $22 million in dividends.
+
+Capital expenditures in the quarter were $74 million, primarily in support of capacity expansion in our Engineered Components segment and maintenance investments across our manufacturing footprint.
+
+As Robert mentioned, we are not providing specific quantitative guidance for Q4 or the full fiscal year at this time. We will continue to update investors as the operating and trade policy environment becomes clearer.
+
+Back to you, Karen.
+
+KAREN BOWMAN: Thank you, Patricia. We will now open the call for analyst questions. Operator, please go ahead.
+
+OPERATOR: Thank you. Our first question comes from James Hartley of Deutsche Bank. Please go ahead.
+
+JAMES HARTLEY (Deutsche Bank): Good morning, Robert, Patricia. Thanks for the detail. Look, I understand the rationale for not providing guidance, and I appreciate the transparency around that. But let me try a different angle: can you help us think about Q4 directionally? Even if you can't give a number, can you tell us whether you expect revenues to be up or down sequentially from Q3? And on margins, do you see the progress you made this quarter as sustainable?
+
+ROBERT LASSITER: James, thanks for the question, and I want to give you a useful answer while also being genuine about our constraints. On the revenue question, I'm going to be straightforward with you: we are not in a position to provide specific targets at this time, and that includes directional guidance. I know that's frustrating. The reason is that we have real uncertainty around several of our largest customer programs as they work through their own planning processes in light of the tariff environment, and providing a directional statement that might prove wrong within weeks of this call is not something I'm willing to do. On margins — what I can say is that the structural improvements we have made are real and are embedded in our cost structure. But the degree to which we can capture that in any given quarter depends on volume leverage, mix, and input costs that are all in flux right now.
+
+JAMES HARTLEY (Deutsche Bank): Okay. I'll try one more: do you expect to reinstate guidance next quarter?
+
+ROBERT LASSITER: We certainly hope to. Our preference is always to provide guidance, and we intend to return to that practice as soon as we have sufficient visibility to do so responsibly. We expect to reassess the situation at our Q4 call.
+
+OPERATOR: Thank you. Our next question comes from Melissa Park of UBS. Please go ahead.
+
+MELISSA PARK (UBS): Good morning. Appreciate the thorough walk-through. I want to come at the guidance question from a different direction. Could you give us any color on your backlog position exiting Q3? And is there any way to frame the bookings activity you've seen in October, which presumably has some read-through for Q4?
+
+PATRICIA WHITMORE: Melissa, thank you for the question. Backlog at the end of Q3 remained solid — we feel good about the underlying order position of the business. That said, I want to be careful here, because one of the dynamics we are navigating is that some customers are holding orders in a shorter booking window as they manage their own uncertainty. So backlog as a leading indicator is somewhat less reliable than it would have been in prior cycles. On October bookings, we don't comment on intra-quarter data points, and I would note that even if I had a very clean October number, the tariff situation has evolved week to week in ways that make extrapolating from any single month somewhat unreliable. We are not in a position to provide specific targets at this time, and we would rather err on the side of saying less and being accurate than saying more and being wrong.
+
+MELISSA PARK (UBS): Understood. And just lastly — can you say whether any of your major customers have communicated plans to pull forward orders ahead of potential tariff increases, similar to what we saw in the first half of the year?
+
+ROBERT LASSITER: We are in active dialogue with our major customers, as we always are. There are certainly customers thinking about their inventory positions and supply chain strategies in light of trade policy dynamics. But I want to be careful not to characterize those conversations in a way that creates an inference about our forward volumes, because those discussions are ongoing and the outcomes are not determined. Again, I'm sorry I can't give you more specificity — I genuinely wish I could.
+
+OPERATOR: Thank you. Our final question comes from Thomas Egan of Baird. Please go ahead.
+
+THOMAS EGAN (Baird): Thanks. Good morning. Robert, I want to come back to the tariff issue one more time. You've cited the tariff environment as the primary reason for not providing guidance. Can you give us a sense of what resolution or clarity would need to look like for you to feel comfortable reinstating guidance? Is this about waiting for specific policy announcements? Is there a threshold of visibility into your cost structure that you need? Help us understand the conditions under which you'd feel comfortable providing a Q4 or fiscal year outlook.
+
+ROBERT LASSITER: Tom, that is probably the most useful version of this question that anyone has asked, and I appreciate you framing it that way. What I would need to see: first, some stability in the announced tariff rates on the categories of steel, aluminum, and specialty materials that we purchase. The rates have moved significantly and in both directions over recent months, and our cost models have to be rebuilt each time that happens. Second, some stability in the response from our customers' end markets — particularly in Europe and in Asia — where tariff-driven demand uncertainty is affecting capital spending plans. If those two things stabilize for a period of six to eight weeks, I would feel reasonably confident that I could provide a forward outlook that I would stand behind. But right now, we are not in a position to provide specific targets at this time, and I don't think it would serve our shareholders for us to pretend otherwise.
+
+THOMAS EGAN (Baird): That's helpful context. Thank you.
+
+KAREN BOWMAN: Thank you all for your questions and your continued engagement with Meridian Industrial. We recognize that not providing guidance creates additional uncertainty for the investment community, and we do not take that lightly. We remain committed to being as transparent as possible within the constraints of this environment, and we look forward to updating you on our Q4 and full-year results in February. Have a good day, everyone.
+
+OPERATOR: Thank you. This concludes Meridian Industrial Corporation's Third Quarter Fiscal Year 2024 Earnings Conference Call. A replay will be available on the Meridian Investor Relations website within 24 hours. You may now disconnect.
+
+[END OF TRANSCRIPT]

@@ -1,5 +1,8 @@
 import sys
 import anthropic
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SYSTEM_PROMPT = (
     "You are a financial analyst assistant. Analyze earnings call transcripts and extract "

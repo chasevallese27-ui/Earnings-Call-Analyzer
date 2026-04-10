@@ -1,0 +1,77 @@
+APPLE INC.
+Q2 FISCAL YEAR 2025 EARNINGS CALL TRANSCRIPT
+May 1, 2025
+
+OPERATOR: Good afternoon, and welcome to Apple's Second Quarter Fiscal Year 2025 Earnings Conference Call. Today's call is being recorded. I would now like to turn the call over to Suhasini Chandramouli, Director of Investor Relations. Please go ahead.
+
+SUHASINI CHANDRAMOULI: Thank you. Good afternoon, everyone. Joining me today are Tim Cook, Apple's Chief Executive Officer, and Luca Maestri, Senior Vice President and Chief Financial Officer.
+
+We will begin with remarks from Tim and Luca, and then we will open the call for your questions. Please note that some of the information you will hear during our discussion today will consist of forward-looking statements, including without limitation those regarding revenue, gross margin, operating expenses, other income and expense, taxes, capital allocation, and future business outlook. These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast. Please refer to Apple's filings with the Securities and Exchange Commission for more information on the risks and uncertainties that could cause actual results to differ.
+
+Now I'd like to turn the call over to Tim.
+
+TIM COOK: Thank you, Suhasini, and good afternoon to everyone.
+
+Apple's March quarter results reflect the strength and resilience of our business. In a dynamic global environment, we delivered solid growth across our portfolio, and I'm proud of the team's execution. We set an all-time revenue record in Services and achieved strong performance across most of our product lines.
+
+iPhone continued to be the world's most popular and most trusted smartphone. Customer satisfaction scores remain at the high end of the industry, and our active installed base of devices reached an all-time high across all major product categories during the quarter. That installed base is the foundation upon which our Services business is built, and it continues to drive durable, high-quality recurring revenue.
+
+On Apple Intelligence: we are seeing strong engagement with the AI features we have rolled out, and we remain on track with our roadmap for expanding these capabilities. Developers are building powerful new applications that take advantage of our on-device and cloud-based intelligence features, and consumer response has been very encouraging. We believe Apple Intelligence will be a meaningful catalyst for the upgrade cycle over time.
+
+Our international business continued to perform well. We set March quarter records in several markets across Latin America, the Middle East, and South Asia, which speaks to the global appeal of our ecosystem. Emerging markets represent a substantial long-term opportunity, and we are investing accordingly in local teams, developer relations, and retail presence.
+
+Services continues to be a bright spot. We now have more than one billion paid subscriptions across our platform, and the breadth of our services — from the App Store and Apple TV+ to Apple Fitness+ and iCloud — continues to deepen our relationship with customers and generate high-quality revenue.
+
+I want to take a moment to acknowledge the current macroeconomic environment. Tariff dynamics create some uncertainty, and we are monitoring the situation carefully. However, I am confident in the fundamental strength of our business model and in our team's ability to navigate uncertainty. We have done it before, and we will do it again.
+
+Let me now hand it over to Luca to walk through the financials in detail.
+
+LUCA MAESTRI: Thank you, Tim. Good afternoon, everyone.
+
+We are pleased to report solid financial results for the March quarter. I'll provide details on a year-over-year basis.
+
+Total net revenue for the quarter was $95.4 billion, up 5% year over year from $90.8 billion in the year-ago period. This result was in line with our guidance range.
+
+Let me take you through performance by segment. iPhone revenue was $46.0 billion, down slightly from $45.9 billion in the year-ago quarter, essentially flat year over year as we lapped a strong prior-year comparison. We are pleased with the customer demand we are seeing for iPhone 16, particularly in markets where Apple Intelligence features are now available.
+
+Mac revenue was $7.5 billion, up 7% year over year, driven by the continued ramp of M4-based Mac products. Customer response to our M4 lineup has been excellent, and we continue to take share in the PC market.
+
+iPad revenue was $5.6 billion, up 15% year over year, reflecting the updated iPad Air and the continued strong performance of iPad Pro with the M4 chip.
+
+Wearables, Home, and Accessories revenue was $7.9 billion, up 4% year over year. Apple Watch and AirPods continued to perform well globally.
+
+Services revenue was $24.2 billion, up 12% year over year, reaching an all-time record. We continue to see strong growth across the App Store, Apple TV+, Apple Arcade, Apple Music, and iCloud services. Advertising and licensing also contributed to growth. Services gross margin remained strong at approximately 75%.
+
+Now turning to consolidated profitability: gross margin for the quarter was 46.6%, up from 46.6% — essentially flat year over year, reflecting Services mix favorability offset by some product cost dynamics and currency headwinds.
+
+Operating expenses were $14.1 billion. Operating income was $29.6 billion, representing an operating margin of approximately 31%.
+
+Net income was $24.8 billion. Earnings per diluted share were $1.53, up 8% year over year, reflecting both earnings growth and the ongoing benefit of our share repurchase program.
+
+We generated $29.0 billion in operating cash flow during the quarter. Our balance sheet remains extremely strong. We ended the quarter with $162.6 billion in cash and marketable securities and $101.3 billion in debt, for a net cash position of approximately $61.3 billion. In the quarter, we returned $29.0 billion to shareholders, including $23.5 billion in share repurchases and $3.9 billion in dividends. We continue to maintain our goal of reaching net cash neutral over time.
+
+Turning to guidance for Q3 fiscal year 2025: We expect revenue to be in the range of $85 billion to $88 billion. We expect gross margin to be between 45.5% and 46.5%. We expect operating expenses between $14.3 billion and $14.5 billion. We expect other income and expense of approximately $300 million. We expect our tax rate to be approximately 16%.
+
+I would note that the midpoint of our Q3 guidance implies modest growth from the year-ago period, which reflects some caution around the macroeconomic and tariff environment, particularly as it relates to our supply chain and end-market demand in certain geographies. We will, as always, update you on our progress next quarter.
+
+With that, I'd like to open the call to questions. Suhasini?
+
+SUHASINI CHANDRAMOULI: Thank you, Luca. We will now take questions. Operator, please open the line.
+
+OPERATOR: Thank you. Our first question comes from Erik Woodring of Morgan Stanley. Please go ahead.
+
+ERIK WOODRING (Morgan Stanley): Thanks, good afternoon. Tim, I wanted to ask about iPhone specifically. The number was essentially flat year over year. There have been some reports of demand softness in China. Can you give us a little more texture on the geographic picture for iPhone and whether you are seeing any pressure from local competition in that market?
+
+TIM COOK: Erik, thanks for the question. Greater China was below where we'd like it to be, and competition in that market is fierce — we're clear-eyed about that. Huawei has made a significant comeback in the premium segment, and we are competing for every customer. That said, I want to put China in context: it is one market, and our global iPhone business is healthy. We set March quarter records in a number of markets, including several in Southeast Asia and the Middle East. The installed base globally continues to grow, and upgraders are responding very well to the new Apple Intelligence features available on iPhone 16. I remain confident in our long-term position in China and globally. We are not complacent, and we are not standing still.
+
+OPERATOR: Thank you. Our next question comes from Ben Reitzes of Melius Research. Please go ahead.
+
+BEN REITZES (Melius Research): Thanks very much. Luca, a question on Services margin. You came in at roughly 75% this quarter on Services. Is that the right way to think about the run rate going forward, or are there any investments you're making in content and infrastructure that would pressure those margins over the next few quarters?
+
+LUCA MAESTRI: Ben, thank you. Services margins remain very healthy, and we are pleased with where they are. Over the long term, the trajectory is toward continued improvement as the business scales, as the mix of high-margin recurring revenues grows, and as we achieve greater operating leverage on our fixed cost base. That said, we do make ongoing investments in content for Apple TV+, in infrastructure to support Apple Intelligence cloud features, and in the App Store developer ecosystem. Those investments can create modest quarter-to-quarter variability. But the structural margin profile of Services is attractive and we expect it to remain so. We're not going to give a specific margin target for Services, but we feel very good about the direction.
+
+SUHASINI CHANDRAMOULI: Thank you all for joining us today. We look forward to speaking with you again in July for our Q3 fiscal 2025 results. Have a wonderful afternoon.
+
+OPERATOR: Thank you. This concludes Apple's Second Quarter Fiscal Year 2025 Earnings Conference Call. You may now disconnect.
+
+[END OF TRANSCRIPT]

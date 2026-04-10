@@ -1,342 +1,67 @@
-MINISO Group Holding Limited (MNSO) Q4 2025 Earnings Call March 31, 2026 5:00 AM EDT
+NVIDIA CORPORATION
+Q1 FISCAL YEAR 2025 EARNINGS CALL TRANSCRIPT
+May 22, 2024
 
-Company Participants
+OPERATOR: Good afternoon, and welcome to NVIDIA's First Quarter Fiscal Year 2025 Earnings Conference Call. All participants will be in a listen-only mode until the question-and-answer session. Today's call is being recorded. I would now like to turn the call over to Simona Jankowski, Vice President of Investor Relations. Please go ahead.
 
-Guofu Ye - Founder, Chairman of the Board of Directors & CEO
-Eason Zhang - VP, CFO & Joint Company Secretary
+SIMONA JANKOWSKI: Thank you. Good afternoon, everyone, and welcome to NVIDIA's First Quarter Fiscal Year 2025 Earnings Call. With me today are Jensen Huang, President and Chief Executive Officer, and Colette Kress, Executive Vice President and Chief Financial Officer.
 
-Conference Call Participants
+I'd like to remind you that today's discussion contains forward-looking statements based on management's current expectations. These statements are subject to risks and uncertainties that could cause actual results to differ materially. We encourage you to review NVIDIA's filings with the SEC for a discussion of those risks. Our non-GAAP financial results exclude stock-based compensation and other adjustments. Reconciliations of GAAP to non-GAAP measures are included in our earnings release.
 
-Michelle Cheng - Goldman Sachs Group, Inc., Research Division
-Samuel Wang - UBS Investment Bank, Research Division
-Runbo Yang - China International Capital Corporation Limited, Research Division
-Di Shi - Huatai Securities Co., Ltd., Research Division
-Kin Shun Ling - Jefferies LLC, Research Division
-Xiaofang Xu - Citic Securities Co., Ltd., Research Division
+I will now turn the call over to Jensen.
 
-Presentation
+JENSEN HUANG: Thank you, Simona, and good afternoon to everyone joining us today.
 
-Operator
+We have had an exceptional quarter. The age of AI is here, and NVIDIA sits at the center of it. Demand for our products has never been stronger, and I believe we are still in the very early innings of what will be a multi-decade build-out of AI infrastructure across the globe.
 
-[Audio Gap] Earnings results presentation. [Operator Instructions] Please also be noted that the call will be recorded. Simultaneous English translation will be available for this call. [Operator Instructions]
+Let me start with what is driving this moment. Every major cloud service provider, every enterprise IT organization, every government, and virtually every industry on the planet is racing to build AI capability. And at the foundation of all of that AI — the training, the inference, the reasoning — is NVIDIA compute. We are the engine of this transformation.
 
-Our December quarter and full year 2025 results are disclosed earlier today and now available on our Investor Relationship website at ir.miniso.com. Joining us here today are Mr. Ye Guofu, our Founder and CEO; and Mr. Jingjing Zhang, our CFO.
+Our data center business had a historic quarter. H100 demand continues to far exceed supply, and I am pleased to report that our next-generation Blackwell architecture is on track and generating tremendous interest from customers. Blackwell will take everything we have built with Hopper and multiply it many times over. We are confident in our ability to ramp production throughout the year.
 
-Before we proceed, I would like to refer everyone to the safe harbor statement in our earnings press release, which was also applied for this call as management will be making forward-looking statements. Please also note, we will also discussing certain non-IFRS financial measures today. Those measures are described and reconciled in their most directly comparable IFRS measures in our earnings release, in our filings to SEC and Hong Kong Stock Exchange.
+Beyond the hardware, NVIDIA's software platform, CUDA, continues to deepen its moat. Millions of developers write code on CUDA. Our networking business, including InfiniBand and Ethernet, is scaling rapidly as customers build out massive GPU clusters that require the fastest interconnects available. The full-stack nature of what we offer — from silicon to systems to software to developer tools — is something no competitor can replicate overnight.
 
-Unless otherwise stated, all figures are in RMB. In addition, we have prepared a presentation featuring financial and operational highlights for today's call. If you're joining Zoom, you will be able to see the slides. They will also be available on our IR website.
+Automotive is also emerging as a meaningful growth driver. Our DRIVE platform is being designed into next-generation vehicles by nearly every major automaker. And our inference business is growing as models move from research into production.
 
-Now I will turn the floor to Mr. Ye Guofu.
+Simply put: the world is building a new kind of infrastructure. AI factories. And NVIDIA is the company supplying what those factories run on.
 
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
+I'll now turn it over to Colette to walk through the financials.
 
-Good day, everyone. Welcome to MINISO 2025 December Quarter and Full Year Earnings Presentation. 2025 was a year for steady growth and a continued breakthrough for the group. Throughout the year, the revenue growth followed a strong and constantly acceleration trajectories rising from 18.9% Y-o-Y in Q1 to 32.7% in Q4, surpassing the upper end of our prior guidance and also reaching RMB 6.25 billion in quarterly revenue, making the first time we have crossed RMB 6 billion revenue quarterly milestone.
+COLETTE KRESS: Thank you, Jensen, and good afternoon, everyone.
 
-Looking at our core brands in details, the MINISO brand recorded its fastest growth rate in nearly 8 quarters in Q4 with revenue up by 28%, reaching RMB 5.65 billion. Meanwhile, TOP TOY delivered exceptional momentum, posting 112% Y-o-Y growth in Q4 with quarterly revenue approaching RMB 600 million, demonstrating the powerful dynamics of our multi-brand portfolio. This year, we achieved higher revenue growth with fewer net new store openings than 2025 with greater share of the growth driven by the same-store sales, reflecting a more efficient and highly quality growth model, reaffirming the resilience and the long-term growth potential of our multi-IP plus multi-category and globalization business model.
+I'll walk through our Q1 fiscal 2025 results on a non-GAAP basis unless otherwise noted.
 
-Today, against the backdrop of the group's full year operating performance, I will share with you the significant progress that we made in the past 1 year regarding MINISO strategy for the past 1 year, particularly focused on the breakthrough in brand elevation and store experience enhancements. First, let's take a look at MINISO China. In the fourth quarter, the MINISO brand generated a revenue of RMB 5.65 billion. Mainland China contributed RMB 2.87 billion, grew by 25%, representing 51% of the total. MINISO overseas revenue reached RMB 2.78 billion, up by 31%, accounted for 50% of the total, reflecting a robust balanced growth driven by both domestic and international operations.
+Starting with the top line: Q1 revenue was $26.0 billion, up 122% year over year and up 18% sequentially. This result exceeded our guidance of $24.0 billion and reflects the extraordinary demand environment for AI infrastructure.
 
-Let's first talk about strategic initiative in MINISO Mainland China business. In Q4, MINISO domestic same-store sales grew by mid-teens in Q4, a record high for the year with average daily sales per store surpassing the level achieved in 2023. Even 2023 was largely driven by surge in post-pandemic pent-up demand. MINISO ability can exceed those peak levels. This can tell its genuine structure improvement rather than the cyclical tailwinds. And we have every confidence, assuming a more supportive macro environment and a gradual recovery in consumer sentiment in 2026.
+By segment: Data Center revenue was $22.6 billion, up 427% year over year. This growth was driven by our Hopper GPU architecture, which continues to ramp across cloud providers, consumer internet companies, and enterprise customers. The H100 and H200 platforms remained our primary revenue drivers in the quarter. Gaming revenue was $2.6 billion, up 18% year over year, as the PC gaming market continues its recovery. Professional Visualization revenue was $427 million, up 45% year over year. Automotive revenue was $329 million, up 11% year over year.
 
-With our stronger brand equity, superior store positioning, more agile supply chain and competitive standing, we will be able to outperform the industry by a wide margin, capturing more shares in the market. By the end of Q4, our domestic franchisee count reaching 1,157, reaching historical high. Franchises grown with their support. That is the most authentic market signal, and they partnered with us because they have witnessed the firsthand and the traffic momentum and the financial returns of our large-format stores. The trust has been earned store by store, IP activation by IP activation. And it is something that we hold in the highest regard.
+Gross margin for the quarter was 78.4%, up from 64.6% in Q1 of fiscal 2024 — an improvement of approximately 1,380 basis points year over year. This reflects strong pricing power, favorable product mix toward our higher-margin data center products, and improving operational efficiencies in our supply chain.
 
-At our 2024 Investor Day, we articulated our vision to make MINISO the go-to happy destination for international consumers worldwide. Today, the vision has been realized one MINISO Land store at a time. By the end of 2025, we have already opened 26 MINISO Land format stores in Mainland China, securing primary location in Tier 1 cities like Beijing, Shanghai, Guangzhou and Shenzhen and also distinctive retail destinations in Horbt, Haikou and Huangshan. In January, the MINISO Land opening in Grandview Mall in Guangzhou, attracting nearly 10,000 visitors on its opening day, generating rMB 450,000 in sales, a new record in South China region.
+Operating expenses were $1.3 billion. Operating income was $16.9 billion, representing an operating margin of 65%. Net income was $14.9 billion.
 
-Equally impressive is the MINISO Land flagship opening in the lower-tier cities in Urumqi and Nanjing. The Nanjing store soft opening drove 80% Y-o-Y growth in overall mall footprint traffic. Urumqi store featuring a 3-story impressive space and the portfolio of 100 IP collaboration quickly established itself as a regional premier destination. Such high-quality offline experience stores are at their core, the engine for IP operations. Through the authentic spatial design and curated product presentation, match our consumer and such foreseeable and tangible offline experience bring IP value to life. And it can also help us to continue to improve our brand IP ecosystem.
+Earnings per diluted share were $6.12, up 131% year over year, compared to $2.48 in Q1 fiscal 2024.
 
-MINISO Land store, combined with blockbuster IP activation has become go-to platform for creating citywide mainstream brand momentum. Tens of thousands of consumers sell their experience Xiaohongshu, Douyin and WeChat Moments. So that's the reason I always tell you our physical store are MINISO'S most powerful brand billboard and our most enduring source of the consumer traffic.
+We generated $15.4 billion of cash flow from operations in the quarter. We returned $7.8 billion to shareholders through share repurchases and dividends. We ended the quarter with $31.4 billion in cash, cash equivalents, and marketable securities.
 
-MINISO is not the first brand to pursue large-format store trajectory, but why others can't follow? The answer comes to just one thing. A successful large-format store must build on a foundation of strong proprietary product development capacity. Without in-house design and R&D capacity, a large format store is nothing but an empty show. Behind that, we have more than 1 decade supply chain deployment, a network of more than 1,500 global suppliers and a design team of over 1,000 professionals. In this process, no one will be able to copy the successful story unless they have to build the core capacities.
+Turning to guidance for Q2 fiscal year 2025: We expect revenue of $28.0 billion, plus or minus 2%. We expect GAAP and non-GAAP gross margins of approximately 74.6% and 75.5%, respectively. GAAP operating expenses are expected to be approximately $4.0 billion. Non-GAAP operating expenses are expected to be approximately $2.8 billion. GAAP and non-GAAP tax rates are expected to be 13.5% and 15.0%, respectively.
 
-MINISO moved even further ahead. In support of our MINISO Land strategy, we established a 7-tier store format mix in 2024, continue to refine and evolve it through 2025. Our goal is to ensure every city, every trade area and every consumption scenario will be served by MINISO format precisely. In the past, I mentioned MINISO intention is to systematically upgrade its store portfolio. And I also would like to share with you the reason behind such initiative, while every new store we open must be large format, high-quality and MINISO land format store.
+I'll now turn it back to Simona for Q&A.
 
-If we look at our journey, we navigated 2 distinctive strategic phase. First, rapid global store expansion to build scale, followed by strategic IP positioning, transitioning ourselves from a value priced variety store into interest-driven consumption destination. We achieved a milestone in both cases.
+SIMONA JANKOWSKI: Thank you, Colette. We will now open the call for questions. Operator, please go ahead.
 
-Now we move into the third phase, an immersive retail transformation centered on MINISO land. It's not only increasing store size. It is an integration of the store capacity built across the first 2 phase, leveraging larger space, creating immersive environment, forging junior emotional connections, driving repeated visitor. We are selling and translating from selling the product to selling experience from a traffic-driven business to loyalty-driven consumer-centered ones. And people never lack the good product. They are truly seeking for compelling destination, memorable experience and the moment with shopping. Our IP-driven land are designed precisely to meet those needs that we can inspire consumers to share and continue to come back for to generate purchase.
+OPERATOR: Thank you. Our first question comes from Stacy Rasgon of Bernstein Research. Please go ahead.
 
-Regarding international market, our overseas revenue approached RMB 2.8 billion in Q4, all-time high, representing 31% Y-o-Y growth. Our overseas store net aid was 159 stores, bringing a full year net increase of 465 stores. Our largest overseas market, the United States delivered a full year growth of more than 60% and 57% in Q4. Same-store growth was more than 20%, all ahead of our prior year expectation.
+STACY RASGON (Bernstein Research): Hi, guys. Thanks for taking my question. Jensen, the data center number was absolutely remarkable. I guess my question is around sustainability. Can you talk about the visibility you have into demand? And is there any concern that customers are double-ordering or over-ordering in anticipation of supply constraints easing?
 
-At our Q1 2024 earnings call, I stated improving store operating quality in North America was our top priority in 2025. At year end, MINISO U.S. business delivered comprehensive improvement on store quality, operational efficiency and consumer engagement. For stores, with new store quality being further improved, sales of the new store in 2025 have all-time high, grew by a double-digit number and both average transaction value and transaction volume all improving, driving meaningful higher unit level profitability and conversion rates, while at the same time, our mature store demonstrated strong operating resilience, leveraging a refined same-store performance tracking model, establishing store to deliver [ revived ] growth, both the average daily sales and transaction improving alongside gains in foot traffic and purchase frequency, especially for our Plaza store format, we opened 48 Plaza locations in 2025. They generate higher attachment rate and average transaction value ASP. The average ASP outperforming our mall stores, establishing a more flexible and economically retained new store expansion channel.
+JENSEN HUANG: Stacy, great question, and one I take seriously. The honest answer is that the demand we are seeing is real and structural. This is not inventory stocking. Cloud providers are deploying immediately — they are capacity-constrained and every chip we ship goes into production systems right away. When I talk to CEOs of hyperscalers and enterprises, the conversation is always the same: they need more, they need it faster, and they are not slowing down their plans. The workloads are real. The models are real. The revenue these companies are generating from AI services is real. We have strong backlog and visibility into the next several quarters, and the pipeline of new customer engagements continues to grow. I am not seeing speculative ordering. I am seeing urgent deployment.
 
-Operationally speaking, we have cost-based expansion strategy, improving logistics efficiencies and warehouse costs. Employee retention improved. Revenue per headcount increased. Labor cost as a percentage to the sales declined, achieving a due optimization on cost and productivity. For consumer side, membership in U.S. market grew by 150% Y-o-Y. The member-driven sales exceeding 50% of the total revenue for the first time. Together, those results mark U.S. market transition from an investment phase into a phase of high-quality profitable growth, becoming our most resilient and dynamic engine for global expansion, which actually give us greater confidence for our global rollout strategy. The operational challenge we encountered in other markets are also encountered and navigated in both China and the U.S. We're going to leverage our experience from China and the U.S., continue to unlock in profit potential for our international operation.
+OPERATOR: Thank you. Our next question comes from C.J. Muse of Cantor Fitzgerald. Please go ahead.
 
-Thirdly, let me talk about TOP TOY. TOP TOY sustained its strong compound growth momentum in Q4 with revenue up by 112%, reaching nearly RMB 600 million revenue in Q4. In terms of the store footprint, by the end of 2025, TOP TOY operated a total of 334 stores, including 30 international stores in Thailand, Malaysia, Indonesia and Japan. Brand global expansion continued to accelerate. Domestically speaking, TOP TOY growth strategy centered on high frequency of the proprietary product launch to drive same-store sales. The proprietary IP, Nommi actually rapidly gained momentum with a sales of more than RMB 200 million and likely to be doubled in 2026.
+C.J. MUSE (Cantor Fitzgerald): Thank you. Colette, I wanted to ask about margins. You came in well above expectations on gross margin this quarter. The Q2 guide for gross margin steps down somewhat. Can you help us understand the puts and takes? And how should we think about margins as Blackwell ramps?
 
-By the end of 2025, TOP TOY has built a proprietary IP portfolio of more than 20 brands. In 2020, I first introduced interest-driven consumption. The consumers' core need is rapidly shifting from the pure functional value to emotional and experimental value, which has been fully validated by the market. MINISO stands as one of the most significant beneficiary and pioneer of this consumption transformation with our immersive experience, multi-category proprietary development capacity. Those are our key and hardest to reflect competitive modes in IP-driven consumption era.
+COLETTE KRESS: C.J., thank you for that question. The Q1 gross margin of 78.4% was a strong result, driven by continued mix shift toward data center, favorable pricing on our H100 and H200 products, and some supply chain favorability. As we move into Q2 and into the Blackwell ramp, we will see some near-term pressure on margins as we qualify and scale new supply chains, bring new manufacturing partners online, and move through the early ramp curve. Blackwell is a more complex product and early ramp economics are always less favorable than mature production. That said, we expect Blackwell gross margins to be very healthy at scale, and we remain confident in our long-term gross margin profile. We will provide more color on that as the ramp progresses through the year.
 
-MINISO's strategic vision is to become the world's leading IP-driven retail platform. My strategy has been even clear. Along the way, we have demonstrated the execution of our strategic development. And we also witnessed the firsthand the genuine and sustainable enthusiasm we have from the consumers. For the past 1 year, we delivered strong results in both China and the U.S. The road ahead is long, but with each step forward, we -- our conviction and confidence only deepen.
+SIMONA JANKOWSKI: Thank you all for joining us today. We look forward to speaking with you again next quarter. Have a great evening.
 
-And that's all for my remarks. Coming next, I'm going to hand over to Ethan to walk you through the financial highlights for Q4 and full year. Thank you.
+OPERATOR: Thank you. This concludes NVIDIA's First Quarter Fiscal Year 2025 Earnings Conference Call. You may now disconnect.
 
-Eason Zhang
-VP, CFO & Joint Company Secretary
-
-Thank you. Thanks for Mr. Ye. Welcome to you all. Coming next, let me just walk you through MINISO Group financial results for Q4 and full year 2025. I will also provide you the outlook. I should also see that all the units would be RMB otherwise being stated.
-
-Let me just start by reviewing financial performance against Q4 and full year. In Q4, revenue grew by 32.7%, supporting the upper end of our prior guidance between 20% to 30%, driven by the outperformance across all business segments. MINISO Chinese Mainland Q4 revenue grew by 25%, exceeding our prior guidance of high teens growth.
-
-MINISO overseas Q4 revenue grew by close to 31% Y-o-Y, ahead of our guidance of a low to high 20s percentage growth. TOP TOY Q4 revenue grew by 112%, above our guidance on 80% to 90% growth. So Q4 momentum lifted full year group revenue growth by 26.2%, exceeding our prior full year guidance of approximately 25% in the interim result.
-
-In Q4, MINISO Chinese Mainland same-store sales growth reached mid-teens. U.S. same-store sales exceed 20%, both supporting our prior year Q4 guidance of the lower double-digit same-store growth. Both markets delivered high single-digit same-store sales growth for the full year, in line with our formal guidance, but ahead of the internal expectation we had when we provided the guidance back in November.
-
-Adjusted operating profit grew by 12% in Q4, in line with our prior guidance of the double-digit growth. Full year adjusted operating profit reaching RMB 3.67 billion, aligned with our guidance. In Q4, our adjusted operating profit margin was 17%, especially in H2 of 2025, and we have already narrowed down the margin compression.
-
-Well let's take a look at the revenue. We have already created 3 revenue milestones in this quarter. First of all, single quarter GMV exceeding RMB 10 billion for the first time, quarterly revenue surpassed RMB 6 billion for the first time and full year revenue crossed more than RMB 20 billion for the first time, benefited from all the outstanding performance. We delivered across all of our business lines, an over expectation performance.
-
-By brand, MINISO brand generated Q4 revenue RMB 5.65 billion, 27.7% increase. And MINISO China continued to demonstrate great growth. In Q4, its average growth is the highest one for the past 8 consecutive quarters. MINISO Overseas revenue was RMB 2.78 billion, up by 30.5%. TOP TOY revenue was RMB 600 million, up by 112% and also having a triple-digit Y-o-Y growth with very strong momentum that exceed our expectation.
-
-Turning to the full year. Group revenue reached RMB 21.44 billion in 2025. A few highlights I'd like to share with you. MINISO Mainland China full year revenue crossed RMB 10 billion milestone for the first time in such a consumption background, grew by around 70%. MINISO overseas full year revenue was RMB 8.6 billion, up by close to 30%. TOP TOY full year revenue was RMB 1.9 billion, maintained a very strong growth. In terms of the geographic revenue mix, Mainland China revenue grew by 22%, accounted for 60% of the total revenue.
-
-Overseas revenue grew by 33%, representing 40% of the total revenue. We'll take a look at the same-store sales performance. MINISO Mainland China Q4 same-store continued its sequential acceleration, reaching a mid-teens go beyond our expectation. Looking back to the full year trajectory of the MINISO Mainland China same-store sales from negative mid-single digit in Q1 to positive low single digit in Q2 to high single digit in Q3 and finally, mid-teens in Q4.
-
-Sequential progression delivered mid-single-digit same-store growth for the full year, already exceeding our initial target in the mid of 2025. As I have already shared with you, delivering the improvement in the domestic same-store sales that we did many hard efforts. In terms of the internal management, the same-store performance has been built into the KPI. And we also have the digital infrastructure, making the business flow more digital and intelligent to improve the one team empowerment.
-
-Thirdly, we have the operation improved, and we improved the store SOP with supply chain optimization and making sure that sustained contribution from the top selling SKUs and minimalizing the potential sales loss. Fourthly, the product development efficiency has been further improved. We actually have more contribution from new SKU and the speed to shelf of the new product launch.
-
-Fifthly, the inventory kept healthy. Regarding the operations, we are also working at 3 fronts, including consumer product and channel. And for people and consumer, we improved the in-store conversion. Our extensive store network serves both large-scale testing ground and rich data pool. By deploying additional foot traffic content, we'll be able to capture high-frequency store level data that can help to further optimize our store and operation.
-
-And we also have diversified marketing activations. For example, for DCF, we have the 1-day store manager program on red, artist street pop-ups as well as in-store meet-and-greet signing event and celebrity store visit, which can actually become the viral moment on the social media, driving organic brand amplification through fan engagement.
-
-Regarding product, let me just give you another 2 points. We're capitalizing on seasonal and holiday product trends, while at the same time, we're also managing IP and non-IP merchandise with a profound understanding. We leverage the traffic-driven power of IP product to generate attachment, purchase and the basket contribution of the non-IP items.
-
-Regarding the channel, we improved our existing store portfolio. We have upgraded and improved 300 stores with a tangible result. Regarding MINISO overseas, same-store sales performance are different from region to region. First of all, in Asia and in Latin America, the same-store performance is lagging behind than other international markets.
-
-However, our strategic, direct operated market, United States and Europe delivered very good results, especially our key strategic direct operated market, U.S. delivered low 20s percentage same-store growth in Q4, supporting our previous guidance were driven by the strong end market performance and continued polish of our store. You can also see that we see a healthy improvement of the same-store profit margin through disciplined data-driven site selection and cluster-based store opening approach.
-
-U.S. back-end overhead costs declined by low single digits, providing further tailwind to U.S. business profitability. It is also worth noticing that in 2025, U.S. business faced meaningful tariff headwinds against a backdrop of significant macroeconomic uncertainties. Our team responded with exceptional foresight, sharp market insights and agile execution, still be able to deliver stand out set of the results.
-
-Such results validate our robustness and business model. Such strength in and out is actually the foundation for our confidence to navigate an economic circle, where domestic market at our strategic home base delivered sequential accelerating positive same-store sales growth in a highly competitive market, which demonstrate our strategic model and exceptional execution capacity of the team, creating a [indiscernible] for further growth. In 2026, successful survey and playbook from China and the United States will be exported to Southeast Asia. Respect to the challenges in Southeast Asia market, we believe the headwinds are already meeting the bottom.
-
-And in 2026, through a comprehensive upgrade of our channel strategy, product assortment and organizational structure and Thailand base, we will be able to continue to improve the business in Southeast Asia regarding the store. And actually, the total store account approached 8,500 by the end of 2025. In Mainland China, the net add is 182 stores compared with 460 in 2024. Recall MINISO Mainland China revenue growth, that was around 10% in 2024. However, in 2025, it was close to 70%. In other words, and with a clear indication that we have transitioned towards a higher quality and more productive growth model with fewer net new stores. MINISO Overseas new adds was 465, bringing a year-end total to 3,583.
-
-TOP TOY new adds was 58 stores. And TOP TOY started global expansion by Q4 of 2024. Just within 1 year, we have 30 stores international-wide, present in Malaysia, Indonesia, Thailand, Japan and Macau. By the end of 2025, our domestic land format store portfolio, including MINISO SPACE, MINISO LAND and MINISO FRIENDS has reached 26 destinations across 90 cities nationwide. That format and the flagship large store collectively accounted for 10% of our domestic store count. It contributed nearly 20% of our domestic GMV. And this number will continue to ramp up, which helped validate big store drives big results logic.
-
-In 2026, we will accelerate the release of this momentum. And you can see, including CDF in Sanya, David City in Zhengzhou and Guanghui Plaza in Shanghai, we'll continue to see our new locations being operational. In Q4 of 2025, we opened our first overseas MINISO LAND at Siam Square in Thailand with very strong market reception, which help us to understand the potential of our overseas formats remains substantial.
-
-In 2026, we'll continue to bring the immersive game experience to more retail destinations across the world. For our overseas directed operating market, led by United States, we plan to have a strategic new openings before Q4. In that way, Q4 would be fully concentrated on in-store operational excellence and experience optimization so that the peak shopping season arrives, we would be able to fully maximize the growth momentum.
-
-Regarding the GP margin, that was 46.4% compared with 47% in the same period of last year. 2025, the GP margin was 45%, flat for the past 5 years. Our GP margin jumped from 28% to 45%, driven by our brand elevation, globalization and IP strategy. During the year, we made selective gross margin adjustment across product categories, which enable better sales performance and overall increase in GP margin. In the near future, we are going to continue to manage the balance between margin rate and sales volume, maintain a healthy high-quality growth.
-
-Regarding operating expenses, the operating expenses in Q4 grew by 45.3%. Sales expense grew by 47.4% 3% higher than the same period of last year. Administrative expense grew by 36.3%, increased 5% -- accounted for 5% of the revenue, flat with last year. The increase in the sales expense was attributable to the growth in direct operated store costs, licensing fees and advertising and marketing expenses.
-
-First of all, our international expansion is still in the early stage. Direct operated store are in mid of the rent and manpower, which was 1% higher than the previous year, accounted for 40% of the total revenue with the total cost to grow by 40%. However, it's already a deacceleration from 54.5% growth rate in the first 9 months of 2025. Secondly, licensing fee grew by 107% Y-o-Y, accounting for 3% of the revenue, up by 1 percentage point compared with 2024.
-
-This also helped to reflect our proactive, upfront investment in IP strategy. Thirdly, advertising and marketing expense grew by 30%, slightly below the rate of the revenue growth in Q4 with the ratio to revenue remained flat compared with 2024. The increase in G&A, and you can see adjusted operating flow, the Q4 adjusted operating profit grew by 11.7% and adjusted operating profit margin reaching 70%.
-
-Full year adjusted operating profit, no matter for M-o-M or Y-o-Y basis, you can also see our operating actually continue to be well managed. From the P&L perspective, in Q4, GP margin declined by 60 percentage basis points because Q4 2024 was our highest GP margin quarter on record. And also direct operated store cost ratio increased by 1 percentage point.
-
-Licensing fee ratio increased by 1 percentage point with a further contribution from the [indiscernible] items of the [indiscernible] percentage points, resulting in a total adjusted operating margin impact by 3%. For the full year, GP margin flat versus with 2024 is mainly due to the direct operation store ratio increased by 2 percentage points. Licensing and other fees increased by 1 percentage point, resulting in a 3 percentage point improvement adjustment.
-
-While at the same time, you can also see that in Mainland China, from the business unit perspective, the business unit part, China franchise business saw a margin decline by only 70 basis points against a backdrop of 70 percentage points of the revenue growth. This reflects our conservative approach for gross margin in exchange for healthy volume. But at the same time, the growth was also contributed by our super warehouse and e-commerce operation with a modest dilutive effect on margin.
-
-The group level margin decline primarily attributable to the compression in overseas margin. For example, direct operated store revenue as a proportion to the total gross overseas revenue has been increased from 1/3 in 2024 to more than half in 2025. Outside the North America, other directly operated market remain in the early investment phase and carry low margin. By contrast, our overseas agent and franchise revenue, which carry high margin grow at a relatively slow pace.
-
-In our financial statement, we also have some non-IFRS adjustment. There are 5 points. First one, share-based compensation, SBC. It was RMB 150 million in Q4 and full year, RMB 270 million, and that used to be RMB 85 million in 2024. The increase was mainly because of the equity incentive plan we made for the team. The second one is the loss from the derivative fair value changes and CB issuance cost. The third one is the interest expense on CB and YH investment related loans.
-
-In Q4, convertible bonds interest expense was RMB 51 million, of which RMB 47 million are in noncash. Interest expense on acquisition loan related to YH was RMB 24 million. For 2025 full year, you can see the convertible bonds interest expense was RMB 190 million, among which RMB 170 million are on noncash interest on YH acquisition loan was [ RMB 87 million ]. And then the fourth point is share of the YH post-tax loss. In Q4, YH estimated net loss was RMB 1.84 billion. And fifthly, you can also see that we have the fair value changes of the redemption liability arising from the preferred shares.
-
-The change was related to RMB 150 million to RMB 160 million related to the strategic financing completed last year. So in aggregate, the adjusted add-back approximately RMB 990 million in Q4 and RMB 1.69 billion for the full year to arrive at adjusted net profit. Excluding the items discussed above, the adjusted effective tax rate was 20.2% for Q4 and 20.1% for full year. Q4 adjusted net profit was growing 7.6 percentage reaching RMB 850 million. However, as a result of our active share repurchase and consolation program, our adjusted EPS slightly faster than growth.
-
-The adjusted diluted EPS in Q4 grew by 9.4%. Full year reached 7.8%. Regarding working capital, by the end of 2025, inventory turnover was 100 days, 91 days, the same period of last year. In Mainland China, inventory turnover was 74 days. Internationally speaking, inventory turnover was 228 days. The increase in overseas inventory days reflect a strategic inventory ahead of the anticipated tariff impact, locking the cost of the favorable level. And we also have established local direct sourcing, which can actually help to balance inventory pressure and ensure continued new product replenishment.
-
-In the near future, we were also going to adjust our overseas inventory and overall efficiency. By the end of 2025, our cash reserve was RMB 7.1 billion remained healthy. In 2025, full year net cash generated from operating activity was RMB 2.58 billion, accounted for 90% of the full year adjusted net profit, a reflection of our business resilience, high earning quality and strong cash generation.
-
-Capital allocation means we're going to maintain our commitment for rapid business growth. In 2025, we obtained a waiver from Hong Kong Stock Exchange with repurchase up to HKD 1.8 billion. And you can also see that we continue to have the repurchase that can showcase our commitment and confidence for the full year.
-
-Looking at the 2025 full year, the return to shareholders account for RMB 1.9 billion -- accounted for 66% of the full year adjusted net profit, including RMB 550 million in share purchase and RMB 1.36 billion in dividends. And you can also see the Board has already announced final dividend of RMB 810 million, representing 50% of the second half 2025 adjusted net profit, which will be expected to be paid in April this year.
-
-Last but not least, closing remarks and outlook. Looking back at our financial performance over the past 5 years from '21 to '25, revenue CAGR reached 21% and adjusted net profit CAGR reached 44%. Looking to 2026, we expect group revenue will have a high teens rate. The 3-year CAGR from '23 to '26 would be no less than 22%. We expect the same-store sales continue to ramp up. In 2026, the same-store sales in key markets like China and North America maintain healthy low single-digit growth. We plan to have a new add store 510 to 550 for the full year.
-
-We seek for quality rather than quantity. In 2026, we balance growth and efficiency, pursuing profitable growth and profit backed by strong cash flow. We expect both adjusted operating profit and adjusted net profit will accelerate the growth rate in 2026. In terms of the profit phasing, the peak retail season for offline retail in North America and Europe is in the second half of the year. For many Western offline brands, 60% to 70% of the annual revenue were generated in H2.
-
-Our direct operated revenue from North America and Europe will continue to grow. Around 60% of the revenue are coming from H2 and H1 accounted for 40% of the total contribution. In Q1 of 2026, the revenue growth were no less than 25%. China same-store sales maintained high single-digit growth. North America same-store delivered strong mid- to high double-digit growth. It is worth noticing Q1 profit will include a significant investment gain from specific investment. It was generated from a test investment we made a few years ago. The company has been quite positive on AI company. We invested in an AI company. That company has been IPO-ed. The company's share price appreciated, generating a substantial fair value gain and it actually bring us RMB 850 million to RMB 900 million.
-
-It is worth noticing that such actual gains will not showcase our primary business resilience. We plan to exclude this item from adjusted operating profit and adjusted net profit.
-
-That's all for our prepared remarks. Let's open the floor for Q&A.
-
-Question-and-Answer Session
-
-Operator
-
-[Operator Instructions] First of all, let's welcome Michelle from Goldman Sachs, please.
-
-Michelle Cheng
-Goldman Sachs Group, Inc., Research Division
-
-Congratulate on the company achieving such a nice growth in the volatile market. I have 2 questions. The first question regarding domestic market. Last year, we drove solid same-store sales growth through refined store operation, stronger fast sales execution and store network upgrades. Looking ahead to 2026, as Eason has already provided guidance, is it possible for you to be more elaborate on the key lever to drive further same-store sales improvement? The second question is regarding the U.S. market. We do notice the sales was looking right in the United market. However, localized sourcing would somewhat pressure your GP margin. What are your priority for merchandise supply chain and store expansion this year? What is the expected impact on margin improvement? That's the 2 questions I have.
-
-Eason Zhang
-VP, CFO & Joint Company Secretary
-
-Thank you. Our core level for driving domestic same-store sales in 2026 are clear. There are 3: the right IP, for example, the Jennie co-branded product, which can actually help to further consolidate our revenue and the brand impact. The second one is right product. The third one is right experience. Well, regarding the right product, we attach great importance to the product quality same as ASP, and we also open large stores to provide a good customer experience.
-
-And it can also see that Jennie collaboration was first launched exclusively at MINISO Land and themed pop-up locations, creating fully immersive IP experience. The limited time pop-up at Home Land Plaza in Shanghai generated RMB 2.2 million in sales on the opening day alone, setting a new single day record for any MINISO pop-up in 2025. This not only validates extraordinary pool of our land format store as a primary destination for IP launches, it also demonstrates a fundamental truth. Prime offline experience combined with top-tier IP content are the golden formula for unlocking global consumer demand and maximizing the IP value.
-
-As many of you may know, the Hang Lung Plaza is actually a top shopping mall, which is quite influential and all these stores and brands are the super luxury brands. We will be able to move into such apartment stores to launch our IP product. This represent the recognition from the top shopping malls and recognition from the top valuable consumers. While at the same time, the breakout IP product expand our customer reach beyond the existing audience, elevating average transaction value ASP and strengthen repeated purchase behavior.
-
-And together with our store upgrades, they form a powerful virtuous circle, enhanced store format to provide superior suitcase and conversion environment for IP. Our IP product intend provide a targeted and highly loyal customer base, jointly driving sustained high-quality same-store sales growth. For us, IP business is never purely about selling product. We aspire to leverage MINISO global supply chain capacity, category development as per the omnichannel reach to give every great IP and every talented creator a bigger stage and to build a more enduring IP that stand the test of the time and earning long trust consumer affection.
-
-And the Jennie collaboration is actually a new area we tap in of working with international well-known celebrities. In the past, we have the image IP and the content co- IP. However, the collaboration with Jennie actually showcased a new co-brand IP with celebrities, which actually provide ample room for the future cooperation. You see that for one of our peers, they actually have a co-collaboration with Lisa, which bring a great and extraordinary global value. By working with celebrities, we will be able to continue to improve and maximize the IP value. They are all the world top artists and the KOL. But at the same time, I also would like to share with you based upon our latest operating data, we expect domestic same-store sales growth in Q1 would be quite aggressive.
-
-And in 2026, we hope that we're going to deliver more supplies. We hope more investors will keep a look at that and working with more celebrities in the near future. The second question you asked about is the product and IP strategy. We will continue to deepen our dual-engine approach of top-tier IP collaboration plus local market adoption. On one side, we'll intensify our partnership with leading global IP. On the other side, we will further expand our assortment on high-margin categories like home goods, plush and blind box.
-
-Just now you mentioned about the U.S. market. In terms of the local direct sourcing, we will optimize our SKU architecture to focus on high velocity and high-margin items, achieving a better balance between store expansion and the GP margin. I was just traveled from the United States back. In 2026, we're going to have a more precise analysis on what products need to be sourced locally and what needs to be shipped there from domestic China. sometimes sourcing from domestic China will present high margin. In 2025, due to the volatile tariff policy, we actually released more room for local sourcing. However, in 2026, we believe the tariff turmoil has already gone. We will be more certain and clear on what are going to be exported from China to U.S. and we are going to have the localized sourcing.
-
-Regarding the margin, let me to be frank, at procurement asset and headquarter sourcing, we need to further improve our efficiency, optimize the merchandise mix and then to improve the GP margin structure as a whole. Our target was to further improve operating margin in 2026 with a more pronounced recovery expected in H2 of the year and we provide a 6-month buffer in H1 of this year. I believe H2 of 2026 would be great, including our land store format. Internally, we keep a look at increasing ASP and also the price per item, we are working very hard in order to further improve the ASP as well as the price of the per product, same as GP margin per product.
-
-Operator
-
-Coming next, let's welcome Samuel from UBS. The floor is yours.
-
-Samuel Wang
-UBS Investment Bank, Research Division
-
-I'm Samuel from UBS. I have a few small questions. The first question, Mr. Ye. In your prepared remarks, you mentioned something regarding IP. I'd like to ask you regarding your proprietary IP. What's the progress on proprietary IP? What are the sales target and the strategic plan for 2026? What are the key third-party IP priorities? Anything you can share with us? My second question was regarding overseas market, that is specifically talking about Mexico market. In 2025, Mexico market faced headwinds. What is the outlook for 2026? My final question, I also would like to ask Mr. Ye. You mentioned you invested in an AI company. Can you disclose the name of that company?
-
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
-
-Thank you. Three good questions. Let me respond to the first one. First of all, let me talk about our IP. First, starting by UU. With less than 6 months of its launch in 2025, UU has already surpassed revenue of more than 100 million milestone. And from January to March of 2026, UU-related sales was already RMB 165 million, around RMB 50 million per year. So according to this trend in 2026, for UU only, our sales would be RMB 600 million. If we also combine international market, it's going to be RMB 800 million or even RMB 1 billion, likely to hit RMB 1 billion revenue milestone.
-
-The revenue was beyond our expectation. UU is actually a Chinese proprietary IP. If you take a look at our IP portfolio and UU is the first one to have a revenue exceeding RMB 100 million. It takes less than 6 months. There's no other Chinese proprietary IP that could run such a revenue growth fast as UU, which can truly demonstrate our product and IP operation tactics and strategy and our robust confidence and operations of the IP management.
-
-Once we are working on that, we will be able to deliver faster growth. In terms of the product approach, we will carry forward the successful logic. We will define the structural landscape for designer toy market, maintain the category innovation as a primary driver of the IP growth.
-
-All 3 product generation of UU released outstanding commercial results. First generation remained most popular. Till now, the average transaction value is still about RMB 400 today. And the third-generation product, the demand is to go beyond our supply. While at the same time, we also be clear that product sales are not on one dimension of IP management. We place great emphasis on healthy sustainable development of our IP. We will not sacrifice an IP longevity for the sake of short-term sales revenue.
-
-And I believe 2026 will be a great year for UU, and we are very likely to have more products working with international outstanding IPs. For example, IP from the Disney family, they're going to have a co-branded work with UU. And that is how our proprietary IP working with the international IP for co-branding. Till now, we have completed a full pipeline of 30 to 40 proprietary IPs. Among them, we have IPs from South Korea, from Japan and from Thailand or even all parts of the world, especially Kumaru, [ Zhibao and Zzuzzu ] and have completed the full proprietary process from creative design to the product readiness, and they will be introduced to global consumer in months ahead. Through those pipelines, we aim to fundamentally reshape the market perceptions of MINISO IP categories and the product potential, creating more blockbuster IPs that deeply resonate with consumer needs.
-
-I also would like to tell you on 17th of May, we're going to have the MINISO photo gallery put into operation in Shanghai. That is going to be another key artist we're going to work with. That artist one painting masterpiece can sell tens of millions of RMB. When our MINISO Art gallery has been put into operation, we're going to engage more artists to work with us. If we reflect on why UU's great success, I think we do 3 things right. First of all, we constantly hold to our core conviction of category innovation to drive explosive IP growth. Product innovation is quite important. First generation of UU is outstanding. The success of UU can really allow us to recalibrate our direction for product innovation and how category innovation is going to be for IP business.
-
-MINISO has been deeply dived in the industry for many years. We have built world-class capacity in multi-category product development and depth of the consumer insights, that can help us to rapidly convert a creative IP concept into best-selling product. Secondly, we work on IP narrative first, product commercialization second, ensuring that IP develop its own soul and emotional resonance with consumers before products are launched to crystallize the value, not the other way around.
-
-Thirdly, we built a fully integrated end-to-end closed loop from the upstream creative ideation to the back-end supply chain to all the omnichannel distribution, enabling rapid response to consumer demand and efficient product iteration and launch. The IP incubation model is also the way underpins our future capacity of next-generation blockbuster IPs. This is also MINISO's 3-part competitive mode, world-class category development capacity, early-stage IP potential detection capacity and high momentum multichannel global distribution capacity.
-
-Those are the 3 strengths that will continue to empower the growth of our own IPs. As you may have already noted, our flagship and new land format store are having many UU installation. That is quite important for IP promotion. You know that we do have a store in Causeway Bay, Hong Kong. When we don't have our proprietary IP, we can only shop the Disney IP.
-
-And the next month, we're going to have the UU artist installations at the store. And for any IP, you have to make sure expose IP, especially your proprietary IP at the store. That is our unique advantage of [ 8,000 ] stores worldwide with the installations and the UU presence in the store, that will be the best way to promote the IP at our own store and make it visible and touchable by the consumer. The third point regarding the third-party IP and proprietary IP portfolio, I have 9 words. more IP, more portfolio globalization. In other words, we need to have the global licensed IP plus the proprietary IP. International IP, they have their advantage. Some of them already have the same movie well curated content and their own strength.
-
-Proprietary IP also having the tribute of scarcity. If it is only a MINISO proprietary IP, it's going to protect our business strength. By having international IP plus proprietary IP, that will be the best business combination. As we are working together, we will be able to make sure we have a stable business and more work to be done. For example, recently, we have the Journey collaboration, and we saw the Instagram moment on WeChat and the Xiaohongshu. If we only do proprietary IP, I don't think the popularity will be that good.
-
-So that's the reason I believe multi-IP, multi-category will, for sure, improve the consumer experience and also contribute to the business stability in long run. We need to be forward-looking rather than shortsighted. We multiply validated third-party IP plus proprietary IP would be the golden formula. We hope you can see after 2 to 3 years whether my word would be validated by the market or not. Till now, we also contracted some incubation of independent original artists and we're also incubating the IP projects. Starting from '26 and '27 or beyond '28, our proprietary IP development is going better.
-
-From the financial performance standpoint, proprietary IP outperformed third-party IP on gross margin contribution, owing to the stronger consumer loyalty, creating pricing power and absence of the licensing cost. The third-party IP in other words, is powerful complementary benefits in new customer acquisition, audience expansion beyond our existing base. It also provide us very good content marketing advantage. The two are highly synergetic together driving sustained and high-quality growth of our IP-related business.
-
-You know that for MINISO LAND, the brand impact continued to ramp up. Many international IP are proactively take approach us of working together, even Jennie, the international top artist to work with us. Jennie has a nickname as Ms. Chanel because Jennie is actually the brand ambassador for many luxury product. Jennie has been happy with MINISO because of our strong brand awareness and customer experience.
-
-Well, let me just turn to the question regarding Mexico market. I was just coming back from Mexico. I'm fully confident on that market. I believe it's going to be better in the near future. Mexico market is going to be the top 3 in the global arena. And you can see that I went to Mexico and I have a face-to-face guidance to the GM of Mexico market. We need to do brand operating in Mexico market, develop the land store format. We need to have the MINISO Land and Friends stores in the top 100 shopping malls in Mexico with GFA more than 800 square meters. In that way, the Mexico market is going to see explosive growth. You know that I went to Mexico, and they have 100 stores have brand Zara.
-
-All those stores are being taken as group shopping malls. Mexico landscape is very much like China. The GDP per capita and consumption structure is very much like China with lower manpower cost. Mexico is actually in the best time for the offline business development. We hope Mexico could actually become a benchmark market we have in Latin American country. When Mexico thrive, the Latin American market would be driven. So we are fully confident in the Mexico market. And we have a high expectation of Mexico market.
-
-And now we define Mexico market as our benchmark market. We will sell more effort and resources to make this market right. We have a very clear strategy for Mexico market. Same-store sales growth and future growth will be quite promising. My fourth point, you can see in Q1 of 2026, Mexico also have a high single-digit growth. However, it's still before the excessive growth of Mexico market is still taking the old business model, old store format. If you follow my line of thinking, I believe all stores could be transformed into Land or Friends stores. There's one store with Hermes, Chanel and Dior as the neighborhood.
-
-And this store is just buy something unique and rather than the value for money. So I ask them, please just close down that store, retrofit it and sell the popular IP and the premier product. Mexico is being taken at the back end of the United States. People come to Mexico really want to shop something unique. We find that Mexico is a market with great opportunities. We find out Mexico have a great area of high-quality shopping malls and with a very strong traffic flow. So we're not going to sell the daily necessities. We're going to translate them into the flagship stores and selling the IP and the trending toys along with the immersive experience and to drive the interest consumption to improve ASP.
-
-I believe after Q2, Q3 and Q4 performance is truly expected in Mexico. We will be able to retrofit our store in updated ones in top 100 shopping malls in Mexico. I believe the performance of that 100 store in Mexico will be doubled. Your first question -- fourth question was asking about our investment. We've been quite lucky. We invested in a company named MiniMax that is an AI company. MiniMax being applied at our company very well. And I also would like to continue to work with MiniMax. So we invested MiniMax when they still have a very low evaluation. Now the return is still looking pretty good. So the name of that company is Minimax. That's all.
-
-Operator
-
-[Operator Instructions] Let's welcome Runbo from CICC.
-
-Runbo Yang
-China International Capital Corporation Limited, Research Division
-
-My name is Yang Runbo from CICC. Just one question from me. In 2025, it seems YH is pressured your margin and financial statement. What would be your plan for YH business?
-
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
-
-Thank you very much. First of all, I need to clarify to all MINISO shareholders. My primary focus has always been and will always be MINISO. It's our foundation and the core driver of our future growth going forward. And it is also the foundation to make MINISO great. So you can see it and be reassured. 90% of my energy and time would be on MINISO. MINISO would always be my highest priority. My investment in YH will not distract my attention from that. Regarding YH, we have completed the management team transition with Wang Shoucheng be appointed as YH CEO.
-
-Under his leadership, YH has its own complete management team that are now independently responsible for the day-to-day operation and strategic execution of the business. Regarding YH future, and we still feel confident for MINISO and me myself, I still would like to see MINISO still be my highest priority, and it is also the cornerstone for the company to further expand and making MINISO truly great. And I always noticed the market development and momentum of MINISO is quite unique worldwide. We will seize the opportunity to continue to ramp up our business and making MINISO great.
-
-Operator
-
-Coming Next, let's welcome from Shi Di from Huatai Securities.
-
-Di Shi
-Huatai Securities Co., Ltd., Research Division
-
-I'm Shi Di from Huatai Securities. Congratulate on the company delivering a satisfying scorecard to the market, which is truly in line of the refined operation. Mr. Ye, you have already introduced a proprietary IP strategy. We have already noticed in 2026, you take it as an operating year for proprietary IP or the dimensional elevation for proprietary IP. What is the organizational structure of the proprietary IP team now? What pipeline and marketing initiatives should we look forward in 2026?
-
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
-
-Thank you. We define 2026 as the elevation year for our proprietary IP, the foundational first step in the comprehensive organizational restructuring and top-level design of our IP business. We established a dedicated IP business group with full accountabilities from the IP value chain from creative incubation to product development to omnichannel operation. And actually, our leader of merchandise has been placed into the IP business group. So we're just using the very experienced people to take the lead of the IP business group, the best and most capable people to run the IP business. So you can already notice how important IP business would be for MINISO.
-
-You can see that Derek used to see -- many people are just using new manager run new business is going to be quite risky. We still remain confident in our new business. We're just using the most capable and most capable team and individuals to run the new business. That's what we do at MINISO. The most capable individual and capable team of running the new business, IP business, and that business is fully independent and it is a new business group business.
-
-Regarding the team build-out, we have completed targeted headcount expansion regarding IP operation, product management, creative design. We also established 2 new back-end R&D department, including CMF, color material finish and ink and color development. And we are among a few companies that started to enter into material study. So for our 20 toys, we not only do IP, we also do product design and material study and the color study and finish study. We strengthened IP product manufacturing from supply chain, building the product quality, continue to consolidate the foundation for long-term IP growth.
-
-That's what we did in H2 of 2025. We have the fabrics and the raw material expert. And we have CMF, color material finish unit that is established in Dongguan, very close to our headquarter. Regarding marketing and communication, we were going to build global IP influence through a diversified range of applications, for example, attending International Art Fair and Fashion Week. And on the 17th of May, we're going to have the MINISO photo gallery including operation in one of the best art center in Shanghai. That also helped to showcase. Our standing within the artist community will continue to elevate. We're going to have our own photo gallery, not only one in Shanghai, but also a new one in Hong Kong because Hong Kong is actually the hub for global artists.
-
-We're going to build such photo galleries in Hong Kong, too. By leveraging those photo gallery, we're going to engage with artists worldwide, continue to ramp up the collaboration and we're also going to leverage the KOLs to continue to amplify our brand reach. Last year for [ Tadikide ] as well as other international artists started to work with us for the marketing event. Even some of the short videos and the secondary creation has been quite popular. There are many secondary creation content of UU.
-
-And you can also see that even within the secondary incubation or content creation, UU is actually ranking #1 among all IPs. The fans are quite active. Thirdly, at MINISO, we actually have the IP specific zones, translating the brand impact into actual sales in Guangzhou, and we also have the Artist Street that is accounted for 50 square meters GFA. We're going to allow new artists and new products being shelved in those new Artist Street by having the interactions with the consumer.
-
-So I believe by so doing, we will be able to continue to scale our investment in proprietary IP incubation, creator ecosystem and back-end R&D capacity, or investment working for long-term healthy development of IP, not short-term traffic speculation. We focus on building high-quality IP that accumulate enduring brand value and generate sustainable cash flow cementing a robust second growth curve for the company's long-term future. So that's what the strategy we have now. In the near future, as we continue to improve our business capacity, we're going to have new IP and new strategies to truly unlock the value of IP.
-
-Operator
-
-Coming next, let's welcome Anne from Jefferies, please.
-
-Kin Shun Ling
-Jefferies LLC, Research Division
-
-Mr. Ye, I have a question for your SSSG and what is the current SSSG same-store sales performance? What about the store expansion or site selection and also the operating margin level in different markets, especially in the directly operated stores in overseas. In the past, you are still in the investment stage. And when we're going to expect on the operating return improvement?
-
-Eason Zhang
-VP, CFO & Joint Company Secretary
-
-Thank you. I'm Eason, let me help to respond to your question then. I think for the past 12 months, our growth philosophy is getting more clear. Same-store sales growth as a foundation and new store expansion, especially high-quality ones as incremental upside, both are working in tandem. For the SSSG, our 2026 is to deliver a positive SSSG globally. It's quite challenging. However, we have ways to make it happen because in international market, we still have some agents stores. It's not easy to make their growth positive. However, have good assortment, we have every confidence we will be able to have it happen.
-
-And regarding store expansion, I have already mentioned a net increase of 510 to 550 high-quality store globally as China and international markets serving twin engine for growth. In China, we plan new add 120 stores. Majority of them will be the land format and the large format stores. And we're also going to close down underperforming small stores and continue to optimize existing portfolio. So in 2026, besides the same-store sales growth, high-quality new store opened in '25 and '26 will contribute to meaningful in sequential years as they mature.
-
-In China, we're still going to harvest a good growth but net growth store only need 120. For international market, net store growth will be 250 stores, covering North America, Europe, Southeast Asia and Latin America, deploy a combination of land format flagship store plus high-quality standard stores in prime retail destinations. As Mr. Ye mentioned, we need to move into the world-class business street to improve the brand potential.
-
-Regarding North America, the same-store growth is already exceed 20% in January and February of this year. We will accelerate store openings in 2026. OPM is expected to have a low single-digit improvement. In Europe, since the start of 2026, we see SSSG grow by double digits. Store expansion is progressing steadily. For example, in Poland, we opened 2 stores, which is quite efficient, working on [indiscernible] Toy's only that is making [indiscernible] profits. In Europe, we have another 4 direct operated market. Those are still in the early-stage investment. We hope it's OPM could be improved further.
-
-In Mexico, since the start of 2026, we will see SSSG growth be a positive number. And we believe Mexico with agent model is still providing a stable operating profit margin. Southeast Asia, we see some challenge. However, for MINISO, our business model is globalization. No matter some markets being challenged, we will be able to have our global expansion to diversify our investment portfolio, made some challenge in Southeast Asia. However, we're going to retain the positive for SSSG, working on Indonesia, premier location to have new stores. So over speaking, that SSSG and OPM trajectory across all key markets still remain healthy, which can also help to showcase we are still in the fast expansion and growth period. So for the key driver, there are 4 optimizing store, product upgrading pure expansion. And fourthly, we should also widely maintain the cost and expenses.
-
-Operator
-
-Next question, let's welcome Madam Xu from Citic, please.
-
-Xiaofang Xu
-Citic Securities Co., Ltd., Research Division
-
-Mr Ye, and management team, I have a question regarding Southeast Asia market. Southeast Asia market is the first start for international expansion. In '25, I made a visit in Southeast Asia. The performance of Southeast Asia market has been a concern of investors. What would be the inventory of the Southeast Asia market? And are you going to adjust operation and the product strategy there in 2026?
-
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
-
-Regarding the question for Southeast Asia market, I think in 2026, there will be a huge adjustment. MINISO started our global expansion for 10 years. We made major investment in Mainland China. 2026, we're going to adjust the 4 key markets, Thailand, Malaysia, Philippines and Indonesia. In Thailand, we will be quite successful and the land format stores being delivered tangible results. Indonesia is going to copy the Chinese model. Southeast Asia are quite close to China and the consumption pattern is very much impacted by China. The lesson and success we made from China can help guarantee success in Southeast Asia. Recently, we went to Malaysia to have a MINISO Land store with a very nice performance.
-
-In 2026, we're going to continue to copy what we do in China to the key market in Southeast Asia. I believe after the 2026 adjustment in H1, then in H2, Southeast Asia is going to provide you a good turnaround. We have a very clear strategy and a very transparent strategy. We're going to make the execution right.
-
-Operator
-
-Okay. We're going to accommodate the final question from [indiscernible] from Yangtze River Securities.
-
-Unknown Analyst
-
-Mr. Ye and the management team, I'm from [indiscernible] Yangtze River Securities. I have a question to you regarding store renovation and upgrade program. Is it possible for you to tell us what would be the strategy for 2026? How many stores do you expect to renovate in '26? What's the result from the completed renovation so far?
-
-Guofu Ye
-Founder, Chairman of the Board of Directors & CEO
-
-Thank you very much. In 2025, we completed renovation for 290 stores. The result was highly impressive. Renovated store average sales uplifted by 40% to 50%. The improvement is not attributable to a single factor rather than a simultaneous improvement of foot traffic, conversion rate and ASP. They are all being improved. But at the same time, rent as a percentage to the sales has declined meaningfully, staff productivity and the sales per square meter rising significantly. Single store profitability has improved, too.
-
-And more importantly, you can see last year, MINISO Land has been getting popular. And we also get great support from the landowner. They're happy to provide better locations and larger locations to allow us to have the land stores and the larger format with primary location, cheaper rent has been provided.
-
-And in 2026, with our proprietary IP development, some of the shopping malls and department stores are happy to present the best location for us to do aesthetic IP exposure and the IP presence that can really showcase how scale the resources we would be in 2026. We're going to accelerate renovation and adjustment underperformed stores would be upgraded and be changed to the primary location. 2026 is a year for accelerated renovation.
-
-I have already mentioned in the near future, 80% of the stores need to be renovated and upgraded. And with our proprietary IP development, in the near future, our stores are going to be quite unique, quite differentiated and they are going to be more influential in the landowner mind and be able to get a good leasing term. In that way, I believe they're also going to contribute to our business growth and profitability in China.
-
-Operator
-
-Thank you. Thanks for all the investors and analysts for your time for this conference. If you have any further questions, please reach out to the IR team. Thanks for your attention and support to MINISO Group. See you next quarter. Thank you.
-
-[Statements in English on this transcript were spoken by an interpreter present on the live call.]
+[END OF TRANSCRIPT]

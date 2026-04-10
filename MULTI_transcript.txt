@@ -1,0 +1,94 @@
+HELIX CLOUD, INC.
+Q2 FISCAL YEAR 2025 EARNINGS CALL TRANSCRIPT
+Ticker: HELX
+August 6, 2025
+
+OPERATOR: Good afternoon, and welcome to Helix Cloud's Second Quarter Fiscal Year 2025 Earnings Conference Call. All participants are in a listen-only mode until the question-and-answer session. Today's call is being recorded and will be available for replay on the company's investor relations website. I would now like to turn the call over to Marcus Webb, Vice President of Investor Relations. Marcus, please go ahead.
+
+MARCUS WEBB: Thank you, operator. Good afternoon, and welcome to Helix Cloud's Q2 fiscal 2025 earnings call. With me today are Sarah Chen, our Chief Executive Officer and Co-Founder, and David Park, our Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that today's call contains forward-looking statements. These statements are based on current expectations and assumptions, and are subject to a number of risks and uncertainties that could cause actual results to differ materially. We refer you to our filings with the SEC, including our most recent Form 10-K and subsequent Form 10-Q, for a discussion of the material risks and uncertainties that could affect our business and financial results. We undertake no obligation to update forward-looking statements.
+
+During the call, we will discuss both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in our earnings press release, which is available on our investor relations website at ir.helixcloud.com.
+
+I'll now turn the call over to Sarah.
+
+SARAH CHEN: Thank you, Marcus, and good afternoon, everyone. Thank you for joining us.
+
+I want to start by saying that this was a strong quarter for Helix Cloud, and it reflects the fundamental durability of what we have built. As cloud infrastructure continues to modernize and enterprises accelerate their shift to platform-based DevOps and data orchestration, Helix sits at the intersection of exactly what customers need. We are not chasing a trend. We are building the platform that enterprises will run on for the next decade.
+
+Let me give you the operational highlights. Annual Recurring Revenue exited Q2 at $2.1 billion, representing 34% year-over-year growth. This is the metric I care most about because it reflects the underlying health of our customer relationships and the velocity of new business. Net Revenue Retention — NRR — for the quarter was 118%, meaning existing customers are expanding their usage of Helix at a healthy clip even as we add new logos at a strong pace. New logo additions in Q2 were 214, which is our highest new logo quarter to date.
+
+Revenue for the quarter was $487 million, up 29% year over year. That growth reflects the translation of ARR into recognized revenue as multi-year contracts season, as well as strong professional services activity as customers ramp their Helix deployments.
+
+On the product side, we launched three significant new capabilities in Q2 that I want to highlight. First, Helix Meridian — our AI-powered workflow orchestration layer — entered general availability and has seen remarkable early adoption. We have over 400 customers running production workloads on Meridian within the first 60 days of GA, which significantly exceeded our internal projections. Second, we launched our native integration with the three major hyperscalers — AWS, Azure, and Google Cloud — allowing customers to run Helix in a deeply integrated, co-sell model directly through cloud marketplaces. Marketplace bookings in Q2 represented 22% of new ARR, up from 11% a year ago. Third, we released Helix Governance 3.0, which strengthens our compliance and audit capabilities, a priority for our financial services and healthcare customers.
+
+On the go-to-market side, I want to highlight our federal business, which had a record quarter. We were awarded two new FedRAMP High certifications in the quarter, and federal ARR grew over 60% year over year. Government represents a significant and underpenetrated opportunity for Helix, and we have invested meaningfully in a dedicated federal sales organization over the past 18 months. Those investments are beginning to pay off.
+
+Our international business also continues to perform well. EMEA grew 41% year over year in ARR terms, driven by strength in the United Kingdom, Germany, and the Nordics. APAC grew 38% year over year. We see substantial runway internationally, and we are in the process of expanding our sales and customer success teams in several key markets.
+
+I want to briefly address the competitive environment, because I know it's a topic on investors' minds. The cloud infrastructure and platform space continues to attract well-resourced competitors, including some of the hyperscalers themselves. We take competition seriously. But what gives me confidence is the depth of Helix's platform integration and the stickiness of our customer relationships. Our average contract length is now 3.1 years. Customers who have been on Helix for more than two years show NRR above 125%. When a company deploys Helix deeply into their DevOps pipeline and their data workflows, it becomes genuinely difficult to displace. We are not resting on that. We continue to invest heavily in R&D, and I believe our product roadmap is the strongest it has ever been.
+
+Let me now turn it over to David to walk through the financials in detail.
+
+DAVID PARK: Thank you, Sarah, and good afternoon, everyone.
+
+I'll walk through the Q2 financial results in detail, and then provide guidance for Q3.
+
+Revenue for Q2 was $487 million, up 29% year over year from $377 million in Q2 of last year. Subscription revenue, which is the largest component, was $441 million, up 31% year over year. Professional services revenue was $46 million, up 16% year over year, as we have intentionally moderated services growth in favor of scaling our partner ecosystem to handle more implementation work.
+
+Non-GAAP gross profit was $361 million, representing a non-GAAP gross margin of 74.1%, compared to 71.8% in Q2 of last year. The 230-basis-point improvement year over year reflects platform scale efficiencies, continued infrastructure optimization, and the mix shift toward subscription revenue. GAAP gross margin was 72.3%.
+
+Non-GAAP operating expenses were $384 million, broken down as follows: Sales and marketing was $201 million, or 41% of revenue. Research and development was $137 million, or 28% of revenue. General and administrative was $46 million, or 9% of revenue.
+
+Non-GAAP operating loss was $23 million, representing an operating margin of negative 4.7%, compared to an operating loss of $41 million, or negative 10.9% of revenue, in Q2 of last year. We continue to make meaningful progress on the path to profitability. On a GAAP basis, operating loss was $89 million, reflecting stock-based compensation of approximately $66 million.
+
+Net loss attributable to Helix Cloud shareholders was $24 million on a non-GAAP basis. Non-GAAP net loss per diluted share was negative $0.18, compared to negative $0.32 in Q2 of last year — a meaningful improvement.
+
+Turning to the balance sheet: we ended Q2 with $1.2 billion in cash, cash equivalents, and short-term investments. We have no long-term debt. Our remaining performance obligations — RPO — which represents the total future revenue under contract — were $4.3 billion at quarter end, up 37% year over year. Current RPO, which represents revenue expected to be recognized in the next 12 months, was $2.1 billion, up 31% year over year.
+
+Operating cash flow for the quarter was positive $18 million. Free cash flow, after capital expenditures of $12 million, was positive $6 million. This marks our second consecutive quarter of positive free cash flow, which we view as an important milestone on our path to sustainable profitability.
+
+Now turning to guidance. For Q3 fiscal year 2025, we expect revenue in the range of $510 million to $515 million, representing year-over-year growth of approximately 26% to 27%. We expect non-GAAP operating loss in the range of $15 million to $20 million. We expect non-GAAP net loss per share of approximately negative $0.12 to negative $0.16, assuming approximately 136 million weighted-average diluted shares.
+
+For the full fiscal year 2025, we are raising our revenue guidance to a range of $1.98 billion to $2.00 billion, up from our prior guidance of $1.94 billion to $1.97 billion. We are also narrowing our full-year non-GAAP operating loss guidance to a range of $70 million to $80 million, compared to our prior guidance of $75 million to $95 million, reflecting the operating leverage we are demonstrating.
+
+With that, I'll turn it back to Marcus to open the call for Q&A.
+
+MARCUS WEBB: Thank you, David. Operator, we're ready for questions.
+
+OPERATOR: Thank you. Our first question comes from Brad Sills of Morgan Stanley. Please go ahead.
+
+BRAD SILLS (Morgan Stanley): Great, thanks. Sarah, congrats on the quarter. I want to ask about the ARR growth. You came in at 34% year over year, which is an acceleration from the 31% you reported last quarter. Can you talk about the primary drivers of that acceleration? Was it new logos, was it expansion in the existing base, or was it some combination? And how do you think about the sustainability of that growth rate into the back half of the year?
+
+SARAH CHEN: Brad, thanks for the question. It was genuinely a combination of both, which is the best answer I can give you because it means the growth is healthy across multiple vectors. New logo momentum was strong — as I mentioned, 214 new logos was a record for us. We saw particularly strong new logo activity in financial services and in the mid-market segment, where we have invested in a more product-led onboarding motion that is beginning to scale. On the expansion side, NRR at 118% reflects customers that are growing into more of the platform. Meridian has been a meaningful driver of expansion — customers buy it as an add-on, and it's been easier to sell into existing customers than we expected. In terms of sustainability: I am not going to promise that we will accelerate from 34% every quarter. But I will say that our pipeline coverage for H2 is strong, our federal business is ramping, and international is just getting started. I feel good about the growth profile of this business.
+
+OPERATOR: Thank you. Our next question comes from Kash Rangan of Goldman Sachs. Please go ahead.
+
+KASH RANGAN (Goldman Sachs): Hi. Thanks. David, I want to ask about gross margins. You came in at 74.1%, which is a nice step-up from where you've been. When we think about the path to your long-term target — I think you've talked about 80% or better over time — how should we think about the pacing? And are there any near-term investments in infrastructure or cloud commitments that could slow the progression?
+
+DAVID PARK: Kash, thanks. Yes, 74.1% is a step in the right direction, and we're pleased with the trajectory. The path to 80% gross margin over the long term is real and is driven by a few structural factors. First, as our subscription revenue base scales, we get meaningful infrastructure efficiency gains — we're spreading fixed costs over a larger revenue base, and we're also getting better at infrastructure optimization through our internal engineering work. Second, the mix shift away from professional services helps — services run at lower gross margins than subscription. Third, as customers mature on the platform, the cost to serve per dollar of ARR declines. The timing of getting to 80% depends on how aggressively we grow. If we are growing at 30% plus, we are making real infrastructure investments to support that, which creates some headwinds. If growth moderated, we'd get there faster. We are optimizing for growth, not for hitting a margin milestone in any given quarter. But I would expect to see continued sequential improvement in gross margin over the next several quarters, absent any material one-time items.
+
+OPERATOR: Thank you. Our next question comes from Sterling Auty of JPMorgan. Please go ahead.
+
+STERLING AUTY (JPMorgan): Thanks. Sarah, I want to ask about competition. You touched on it briefly in your prepared remarks. Specifically, I'm curious about what you're seeing from the hyperscalers. AWS, Azure, and Google all have native DevOps and data orchestration products that they continue to invest in. When you're in competitive deals, how often are you displacing or competing against hyperscaler-native solutions? And what's the win rate look like in those situations?
+
+SARAH CHEN: Sterling, it's a great question and one I want to answer honestly rather than defensively. Yes, we compete against hyperscaler-native solutions in a meaningful portion of deals. I'd say roughly a third of competitive situations involve a native cloud service. And we win the majority of those, for a few reasons. First, multi-cloud is real. Most large enterprises are running workloads across multiple clouds, and the hyperscaler-native tools are built around a single cloud's architecture. Helix is cloud-agnostic by design, and that matters to enterprises with multi-cloud strategies. Second, depth. The native tools are good at basic use cases, but for complex enterprise workflows with strict governance requirements, audit trails, and cross-system integration, Helix is simply more capable. Third, the fact that we are now selling through hyperscaler marketplaces — which I mentioned in my prepared remarks — actually changes the competitive dynamic in some ways. We are a co-sell partner with the hyperscalers in certain segments, which creates a collaborative dynamic in deals where the customer is already committed to a primary cloud. We take the competition seriously every day, but I feel very good about our competitive position.
+
+OPERATOR: Thank you. Our next question comes from Raimo Lenschow of Barclays. Please go ahead.
+
+RAIMO LENSCHOW (Barclays): Thank you. David, I want to come to the path to profitability. This is the second quarter of positive free cash flow, which is a real milestone. How should we think about the trajectory from here? And can you help us understand what the key levers are for reaching operating income breakeven? Is it primarily S&M leverage, or is there something else?
+
+DAVID PARK: Raimo, thank you, and yes, we're genuinely proud of the free cash flow progress. The path to operating income breakeven is something we think about carefully. Let me walk you through the levers. The biggest one is sales and marketing leverage. At 41% of revenue this quarter, we have meaningful room to scale. As we grow revenue, we don't expect S&M to grow proportionally, because our land-and-expand model means that once a customer is on the platform, expansion revenue comes with a much lower customer acquisition cost than new logo ARR. Partner-sourced and marketplace-sourced deals also have a lower CAC, and that mix is growing. The second lever is R&D efficiency. We've been intentional about where we invest in R&D, and we're becoming more disciplined about program prioritization. The third lever is G&A, which is already well-managed at 9% of revenue and will naturally decline as we scale. My expectation is that we reach quarterly operating income breakeven sometime in the second half of fiscal 2026, assuming we continue on our current growth trajectory and without any macro shock. But I want to be honest that we are managing this business for long-term value creation, not for a specific near-term profitability milestone. If we see an exceptional growth opportunity that requires incremental investment, we will take it.
+
+OPERATOR: Thank you. Our final question comes from Alex Zukin of Wolfe Research. Please go ahead.
+
+ALEX ZUKIN (Wolfe Research): Thanks a lot. Sarah, I want to ask about headcount and hiring. The hyperscaler build-outs and AI companies are creating a very competitive environment for engineering talent. Can you talk about where you are in terms of headcount growth, whether you're hitting your hiring plans, and whether you're seeing any wage pressure that we should think about as it relates to your cost structure?
+
+SARAH CHEN: Alex, yes, the talent market is competitive, and I won't pretend otherwise. We ended Q2 with approximately 4,400 employees globally, up from approximately 3,600 a year ago. So we've grown headcount by about 22% year over year, which is slower than our revenue growth — that's intentional, and it's one of the reasons we're showing operating leverage. On hitting our hiring plans: we are roughly on track. We've had some targeted areas where recruiting has taken longer than we'd like, particularly for senior infrastructure engineers and for applied AI researchers who are working on our Meridian platform. Those are the most contested talent pools right now. We have responded by expanding our recruiting footprint in markets outside of San Francisco — we have strong engineering hubs in Austin, Toronto, and Warsaw that have allowed us to access talent that isn't competing directly with every AI company in the Bay Area. On compensation: yes, we've seen wage pressure, particularly at the senior engineering level. We've managed it through a combination of competitive base compensation and equity refreshes. The equity component is meaningful for our employees, and as our business continues to perform, I believe it will remain a differentiator for us in attracting talent. The bottom line is that hiring is a challenge but it is a manageable one, and I feel good about the team we are building.
+
+MARCUS WEBB: Thank you all for your questions today. We appreciate the thoughtful engagement, and we look forward to continuing the conversation with many of you at upcoming investor conferences. Our next earnings call will be in November for Q3 fiscal 2025 results. Have a great evening.
+
+OPERATOR: Thank you. This concludes Helix Cloud's Second Quarter Fiscal Year 2025 Earnings Conference Call. A replay will be available on the Helix Cloud Investor Relations website within approximately two hours. You may now disconnect.
+
+[END OF TRANSCRIPT]
