@@ -1,5 +1,7 @@
 # Earnings Call Analyzer
 
+Video Demo Link: https://youtu.be/URnx0NDWArI
+
 A Python tool that uses an LLM to automatically summarize earnings call transcripts into structured, analyst-ready reports.
 
 ## Overview
